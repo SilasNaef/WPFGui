@@ -4,6 +4,5 @@
              xmlns:local="clr-namespace:WPFGui"
              StartupUri="View/RandomSelectorView.xaml">
     <Application.Resources>
-         
     </Application.Resources>
 </Application>
