@@ -1,0 +1,14 @@
+F:\WPFGui\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe.config
+F:\WPFGui\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe
+F:\WPFGui\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.pdb
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.g.cs
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\App.g.cs
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.cache
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.baml
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.g.resources
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.Properties.Resources.resources
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csproj.GenerateResource.Cache
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.exe
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.pdb
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csprojResolveAssemblyReference.cache
+F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.lref
