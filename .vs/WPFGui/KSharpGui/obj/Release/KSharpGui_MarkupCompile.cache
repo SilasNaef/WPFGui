@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Release\
 KSharpGui
 none
 false
-DEBUG;TRACE
+TRACE
 C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\App.xaml
 1-449290888
 
