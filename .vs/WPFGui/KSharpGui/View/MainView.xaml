@@ -7,14 +7,14 @@
         d:DataContext="{d:DesignInstance KSharpGui:MainModel}"
         mc:Ignorable="d"
         Title="K Sharp Toolbox" Height="300" Width="500">
-        
+
     <Grid>
         <StackPanel>
             <Menu IsMainMenu="True" Background="#0d0e36">
-                <MenuItem Foreground="White" Padding="7px">
+                <MenuItem Padding="7px">
                     <MenuItem.Header>
                         <StackPanel>
-                            <Image Width="20" Height="20" Source="..\images\menu.png"/>
+                            <Image Width="20" Height="20" Source="..\images\white-menu-icon.png"/>
                         </StackPanel>
                     </MenuItem.Header>
                 </MenuItem>

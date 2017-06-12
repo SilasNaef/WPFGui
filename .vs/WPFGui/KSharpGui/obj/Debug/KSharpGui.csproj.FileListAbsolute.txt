@@ -15,7 +15,6 @@ F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.lref
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe.config
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.pdb
-F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csprojResolveAssemblyReference.cache
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.g.cs
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\App.g.cs
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.cache
