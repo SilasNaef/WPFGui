@@ -25,3 +25,11 @@ F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csproj.GenerateResource.Cache
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.exe
 F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.pdb
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csprojResolveAssemblyReference.cache
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.exe
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.pdb
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\View\Passwordgenerator.g.cs
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.g.cs
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\App.g.cs
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.cache
+C:\ProjektGUI\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.lref
