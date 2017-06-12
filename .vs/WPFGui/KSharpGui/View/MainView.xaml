@@ -6,11 +6,28 @@
         xmlns:KSharpGui="clr-namespace:KSharpGui.Model"
         d:DataContext="{d:DesignInstance KSharpGui:MainModel}"
         mc:Ignorable="d"
-        Title="MainView" Height="300" Width="300">
+        Title="K Sharp Toolbox" Height="300" Width="500">
         
     <Grid>
-       
-        <Button Content="{Binding buttonText, Mode = TwoWay}"></Button>
-
+        <StackPanel>
+            <Menu IsMainMenu="True" Background="#0d0e36">
+                <MenuItem Foreground="White" Padding="7px">
+                    <MenuItem.Header>
+                        <StackPanel>
+                            <Image Width="20" Height="20" Source="F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\Sources\images\menu.png" />
+                        </StackPanel>
+                    </MenuItem.Header>
+                </MenuItem>
+                <MenuItem Header="_Passwordgenerator" Foreground="White" Padding="7px"></MenuItem>
+                <MenuItem Header="_Gruppenersteller" Foreground="White" Padding="7px"></MenuItem>
+            </Menu>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+            </Grid>
+        </StackPanel>
     </Grid>
 </Window>
