@@ -12,3 +12,17 @@ F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.exe
 F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.pdb
 F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csprojResolveAssemblyReference.cache
 F:\WPFGui\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.lref
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe.config
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.exe
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\bin\Debug\KSharpGui.pdb
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csprojResolveAssemblyReference.cache
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.g.cs
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\App.g.cs
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.cache
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui_MarkupCompile.lref
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\View\MainView.baml
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.g.resources
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.Properties.Resources.resources
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.csproj.GenerateResource.Cache
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.exe
+F:\Schule\4.Semester\M120_Benutzerschnittstelle\GUI_PROJEKT\.vs\WPFGui\KSharpGui\obj\Debug\KSharpGui.pdb
