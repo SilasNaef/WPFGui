@@ -17,21 +17,11 @@ namespace KSharpGui.View
     /// <summary>
     /// Interaktionslogik für MainView.xaml
     /// </summary>
-    public partial class MainView : Window
+    public partial class PasswordView : Window
     {
-        public MainView()
+        public PasswordView()
         {
             InitializeComponent();
-        }
-
-        private void checkBox2_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void klein_Checked(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }

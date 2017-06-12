@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using KSharpGui.View;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,7 +22,7 @@ namespace KSharpGui.Control
         {
             #region Char Pool setzen
             //Je nach gesetzten Checkboxen, wird der Inhalt der zur Vefügung stehenden Zeichen vergrössert, oder verkleinert
-            if (true)
+            if ()
             {//Letters Checkbox checked
                 foreach (char element in smallLetters)
                 {

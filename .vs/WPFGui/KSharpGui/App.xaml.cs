@@ -16,6 +16,7 @@ namespace KSharpGui
         {
             MainModel model = new MainModel();
             var mainview = new MainView();
+            var passwordgenerator = new PasswordView();
 
             mainview.DataContext = model;
             mainview.Show();
