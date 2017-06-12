@@ -56,18 +56,14 @@
     </ApplicationDefinition>
     <Compile Include="MVC\RelayCommand.cs" />
     <Compile Include="MVC\ModelBase.cs" />
-    <Compile Include="View\MainView.xaml.cs">
-      <DependentUpon>MainView.xaml</DependentUpon>
-    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Control\MainControl.cs" />
-    <Page Include="View\MainView.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
+    <Compile Include="View\MainView.xaml.cs">
+      <DependentUpon>MainView.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\MainModel.cs" />
@@ -97,7 +93,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="images\menu.png" />
+    <Page Include="View\MainView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\white-menu-icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
