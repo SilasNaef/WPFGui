@@ -54,6 +54,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Control\Passwordgenerator.cs" />
     <Compile Include="MVC\RelayCommand.cs" />
     <Compile Include="MVC\ModelBase.cs" />
     <Compile Include="App.xaml.cs">
