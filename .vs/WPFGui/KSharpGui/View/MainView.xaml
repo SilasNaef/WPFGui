@@ -7,10 +7,18 @@
         d:DataContext="{d:DesignInstance KSharpGui:MainModel}"
         mc:Ignorable="d"
         Title="K Sharp Toolbox" Height="300" Width="500">
-        
+
     <Grid>
         <StackPanel>
             <Menu IsMainMenu="True" Background="#0d0e36">
+                <MenuItem Padding="7px">
+                    <MenuItem.Header>
+                        <StackPanel>
+                            <Image Width="20" Height="20" Source="..\images\white-menu-icon.png"/>
+                        </StackPanel>
+                    </MenuItem.Header>
+                </MenuItem>
+                <MenuItem Header="_Passwordgenerator" Foreground="White" Padding="7px"></MenuItem>
                 <MenuItem Header="_Gruppenersteller" Foreground="White" Padding="7px"></MenuItem>
             </Menu>
             <Grid>
