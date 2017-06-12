@@ -82,9 +82,13 @@ namespace KSharpGui.View
         internal System.Windows.Controls.Label label;
         internal System.Windows.Controls.CheckBox gross;
         internal System.Windows.Controls.CheckBox klein;
-        internal System.Windows.Controls.TextBox textBox1;
         internal System.Windows.Controls.Label label1;
         internal System.Windows.Controls.Label label2;
+        internal System.Windows.Controls.Label validate;
+        internal System.Windows.Controls.Button validiater;
+        internal System.Windows.Controls.TextBox anzahlZeichen;
+        internal System.Windows.Controls.TextBox password;
+        internal System.Windows.Controls.TextBox validiater1;
     }
 }
 
