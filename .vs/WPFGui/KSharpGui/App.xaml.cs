@@ -1,4 +1,5 @@
-﻿using KSharpGui.Model;
+﻿using KSharpGui.Control;
+using KSharpGui.Model;
 using KSharpGui.View;
 using System.Windows;
 
@@ -14,10 +15,10 @@ namespace KSharpGui
         
         private void BootsTrap()
         {
-            MainModel model = new MainModel();
+            MainControl control = new MainControl();
             var mainview = new MainView();
 
-            mainview.DataContext = model;
+            mainview.DataContext = control;
             mainview.Show();
         }
     }

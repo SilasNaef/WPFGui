@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Input;
 
-namespace Gui.Implementation.MVVM
+namespace KSharpGui.MVC
 {
-	internal class RelayCommand : ICommand
+	public class RelayCommand : ICommand
 	{
 		private readonly Predicate<object> _canExecute;
 		private readonly Action<object> _execute;
