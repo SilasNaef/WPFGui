@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using KSharpGui.MVC;
+
 
 namespace KSharpGui.Model
 {
-    class PasswordRegistModel
+    public class PasswordRegistModel: ModelBase
     {
         public Boolean SpecialChars { get; set; }
         public Boolean NumberChars { get; set; }
