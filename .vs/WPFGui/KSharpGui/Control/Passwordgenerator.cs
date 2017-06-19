@@ -4,10 +4,11 @@ using KSharpGui.View;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using KSharpGui.Model;
 
 namespace KSharpGui.Control
 {
-    class Passwordgenerator
+    public class Passwordgenerator
     {
         public List<char> characters = new List<char>();
         private int passwordLength;
@@ -20,9 +21,11 @@ namespace KSharpGui.Control
 
         private void setCharacters()
         {
+            PasswordRegistModel model = new PasswordRegistModel();
+
             #region Char Pool setzen
             //Je nach gesetzten Checkboxen, wird der Inhalt der zur Vefügung stehenden Zeichen vergrössert, oder verkleinert
-            if ()
+            if(true)
             {//Letters Checkbox checked
                 foreach (char element in smallLetters)
                 {

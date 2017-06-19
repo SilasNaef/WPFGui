@@ -15,11 +15,15 @@ namespace KSharpGui
         private void BootsTrap()
         {
             MainModel model = new MainModel();
+            PasswordRegistModel passmodel = new PasswordRegistModel();
+
             var mainview = new MainView();
-            var passwordgenerator = new PasswordView();
+            var passwordgeneratorView = new PasswordView();
 
             mainview.DataContext = model;
+            passwordgeneratorView.DataContext = passmodel;
             mainview.Show();
+            passwordgeneratorView.Show();
         }
     }
 

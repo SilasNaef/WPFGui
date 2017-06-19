@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 W:\WPFGui\WPFGui\.vs\WPFGui\KSharpGui\App.xaml
-2-718735179
+2-1046834489
 
-161109041425
+161115221876
 13738642453
-View\Passwordgenerator.xaml;View\MainView.xaml;
+View\PasswordView.xaml;View\MainView.xaml;
 
-True
+False
 
